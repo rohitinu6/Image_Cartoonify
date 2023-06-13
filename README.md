@@ -29,10 +29,12 @@ In the final step, we merge the smoothened and the edged image so as toobtain th
 
 ## Dataset:
 The image is collected from the following Kaggle dataset:
+
 https://www.kaggle.com/datasets/ashwingupta3012/human-faces
 
 ## References:
 I have taken help from the following websites to understand the concept and build the project:
+
 1. https://data-flair.training/blogs/cartoonify-image-opencv-python/
 2. https://www.analyticsvidhya.com/blog/2022/06/cartoonify-image-using-opencv-and-python/
 3. https://www.codespeedy.com/cartooning-of-an-image-in-machine-learning-using-python/
