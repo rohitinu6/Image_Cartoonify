@@ -28,7 +28,7 @@ In the final step, we merge the smoothened and the edged image so as toobtain th
 ![download](https://github.com/rohitinu6/Image_Cartoonify/assets/113301503/8cf37c0a-4031-4b63-94c6-c094896f8c5d)
 
 ## Dataset:
-The image is collected from the following Kaggle dataset:
+The image used in this project is collected from the following Kaggle dataset:
 
 https://www.kaggle.com/datasets/ashwingupta3012/human-faces
 
