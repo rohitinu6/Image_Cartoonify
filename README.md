@@ -22,6 +22,6 @@ Then we make a smoothened image of the original color image:
 
 In the final step, we merge the smoothened and the edged image so as toobtain the cartoonified image, which is the desired output:
 
-##Output:
+## Output:
 
 ![download](https://github.com/rohitinu6/Image_Cartoonify/assets/113301503/8cf37c0a-4031-4b63-94c6-c094896f8c5d)
