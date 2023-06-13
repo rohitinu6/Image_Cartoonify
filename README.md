@@ -1,6 +1,6 @@
 # Image_Cartoonify
 
-## AIM: 
+## Aim: 
 The purpose of this project is to Cartoonify an image i.e. to display an image in a cartoon form
 
 ## Working:
@@ -21,5 +21,6 @@ Then we make a smoothened image of the original color image:
 ![download](https://github.com/rohitinu6/Image_Cartoonify/assets/113301503/63c075d9-3014-4da3-adf4-7b74c7b5af41)
 
 In the final step, we merge the smoothened and the edged image so as toobtain the cartoonified image, which is the desired output:
+##Output:
 
 ![download](https://github.com/rohitinu6/Image_Cartoonify/assets/113301503/8cf37c0a-4031-4b63-94c6-c094896f8c5d)
