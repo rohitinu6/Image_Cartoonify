@@ -26,3 +26,14 @@ Then we make a smoothened image of the original color image:
 In the final step, we merge the smoothened and the edged image so as toobtain the cartoonified image, which is the desired output:
 
 ![download](https://github.com/rohitinu6/Image_Cartoonify/assets/113301503/8cf37c0a-4031-4b63-94c6-c094896f8c5d)
+
+## Dataset:
+The image is collected from the following Kaggle dataset:
+https://www.kaggle.com/datasets/ashwingupta3012/human-faces
+
+## References:
+I have taken help from the following websites to understand the concept and build the project:
+1. https://data-flair.training/blogs/cartoonify-image-opencv-python/
+2. https://www.analyticsvidhya.com/blog/2022/06/cartoonify-image-using-opencv-and-python/
+3. https://www.codespeedy.com/cartooning-of-an-image-in-machine-learning-using-python/
+4. https://medium.com/boundlessinfo/a-mini-project-with-opencv-in-python-cartoonify-an-image-d82b9ff6df70
